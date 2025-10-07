@@ -21,7 +21,8 @@ Hi! I'm Kate. I am an aspiring archivist, lover of books, mom of two sweet boys,
 
 - 🔭 I’m currently in my final quarter at Drexel. I am taking INFO 591 and INFO 890. 
 - 🌱 At my capstone site, I am learning about processing an archival collection, how to conduct archival reference interviews, constructing a finding aid, digitizing a collection, and other fun minutiae of archives work. 
-- 💬 I like talking about: new books, gossip, running and performance metrics, the latest with my kids, politics (though this does give me anxiety, too!), and admittedly interpersonal dynamics. Love psychology chat! 
+- 💬 I like talking about: new books, running and performance metrics, the latest with my kids, politics (though this does give me anxiety, too!), and admittedly interpersonal dynamics. Love psychology chat! 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I worked in academic publishing for many years before switching to library science, and it was the enjoyment I got out of working on databases and tidying up information systems that finally brought home that I wanted to go into library science! 
--->
+
+One of my favorite topics in library science school has been [digital preservation](https://github.com/topics/digital-preservation). 
